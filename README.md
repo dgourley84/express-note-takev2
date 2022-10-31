@@ -8,7 +8,7 @@
 
   express-note-taker
 
-  [A deployed version can be viewed here.](N/A)
+  [A deployed version can be viewed here.](https://macabre-demon-67048.herokuapp.com/) This site has been deployed using Heroku.
 
   [The repository can be viewed here.](https://github.com/dgourley84/express-note-taker)
 
